@@ -31,7 +31,18 @@
 <table>
     <tr>
         <td>
-            <img src="" alt="" width="300">
+            <img src="https://github.com/chayan-1906/travel-ui/assets/82430454/74676126-0314-4b9c-824d-713dd9b8ded6" alt="Welcome Screen" width="300">
+        </td>
+        <td>
+            <img src="https://github.com/chayan-1906/travel-ui/assets/82430454/9213689f-948d-4d42-9a02-a0d02df71133" alt="Home Screen - I" width="300">
+        </td>
+    </tr>
+    <tr>
+        <td>
+            <img src="https://github.com/chayan-1906/travel-ui/assets/82430454/161d4361-8cd0-46dc-9b3f-71c60d1f27c9" alt="Home Screen - II" width="300">
+        </td>
+        <td>
+            <img src="https://github.com/chayan-1906/travel-ui/assets/82430454/483cf0d2-c410-4240-a6a3-0ef4552c7051" alt="Destination Screen" width="300">
         </td>
     </tr>
 </table>
