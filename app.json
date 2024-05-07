@@ -1,7 +1,8 @@
 {
   "expo": {
     "name": "Travel-UI",
-    "slug": "Travel-UI",
+    "slug": "travel-ui",
+    "owner": "padmanabha-personal",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
@@ -28,6 +29,17 @@
     },
     "plugins": [
       "expo-font"
-    ]
+    ],
+    "extra": {
+      "eas": {
+        "projectId": "2b40ae48-1bf3-42e1-9a1d-348e6170327e"
+      }
+    },
+    "runtimeVersion": {
+      "policy": "appVersion"
+    },
+    "updates": {
+      "url": "https://u.expo.dev/2b40ae48-1bf3-42e1-9a1d-348e6170327e"
+    }
   }
 }
